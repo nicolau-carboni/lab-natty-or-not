@@ -1,7 +1,7 @@
 # Criação de conteúdo nem um pouco Natty! :)
 ## 📒 Descrição
 Este projeto visa criar um post carrossel para Instagram que explora como a inteligência artificial pode auxiliar na criação de conteúdo criativo. Utilizando ferramentas como ChatGPT e Copilot, buscamos mostrar de forma visual e envolvente como a IA pode ser uma aliada poderosa para criadores de conteúdo.
-
+    "Obs.: Tudo, inclusive esse README, foi criado por ferramenas de IA com apenas alguns ajustes feitos por mim."
 ## 🤖 Tecnologias Utilizadas
 - **ChatGPT**: Para geração de textos criativos e sugestões de conteúdo.
 - **Copilot**: Para auxiliar na codificação e estruturação do projeto.
