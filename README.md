@@ -15,7 +15,7 @@ Este projeto visa criar um post carrossel para Instagram que explora como a inte
 4. **Revisão e Ajustes**: Após a criação inicial, revisamos o conteúdo e o design, fazendo ajustes para garantir que tudo estivesse harmonioso e esteticamente agradável.
 
 ## 🚀 Resultados
-O resultado final foi um carrossel de 10 slides que não apenas informa, mas também engaja o público. O post recebeu feedback positivo, com um aumento significativo no engajamento em comparação com postagens anteriores. A combinação de texto criativo e design estético resultou em um conteúdo que se destacou no feed.
+O resultado final foi um carrossel de 8 slides que não apenas informa, mas também engaja o público. O post recebeu feedback positivo, com um aumento significativo no engajamento em comparação com postagens anteriores. A combinação de texto criativo e design estético resultou em um conteúdo que se destacou no feed.
 
 ## 💭 Reflexão
 Criar algo "natty" com IA apresenta desafios únicos. Embora a tecnologia ofereça ferramentas poderosas, a verdadeira criatividade ainda depende da visão humana. A colaboração entre a IA e o criador é fundamental para alcançar um resultado que seja não apenas informativo, mas também autêntico e envolvente. A experiência nos ensinou que a IA é uma aliada, mas a essência do conteúdo ainda vem da nossa criatividade e paixão.
